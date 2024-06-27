@@ -39,7 +39,7 @@ DATABASE_URL=YOUR_URL
  
 ```
 
-3. Install dependencies
+3. Install Server dependencies
 
 ```bash
   cd server
@@ -51,8 +51,7 @@ Start the server
 ```bash
   npm start
 ```
-Start the Client
-
+Install Client dependencies
 ```bash
   cd client
   npm install
@@ -64,9 +63,10 @@ Start the client
   npm start
 ```
   
-# Features
+# ScreenShots
 
-### Authenticaton
-![]()
-![]()
+![](https://github.com/AniketMujbaile/movie-watchlist/blob/main/Img/Img1.png)
+![](https://github.com/AniketMujbaile/movie-watchlist/blob/main/Img/Img2.png)
+![](https://github.com/AniketMujbaile/movie-watchlist/blob/main/Img/Img3.png)
+
  
